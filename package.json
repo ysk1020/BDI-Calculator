@@ -1,0 +1,18 @@
+{
+  "name": "bmi_calculator",
+  "version": "1.0.0",
+  "description": "This BMI Calculator is a user-friendly mobile application built with Flutter and Dart, providing a quick and easy way to calculate your Body Mass Index (BMI). Whether you're health-conscious or just curious, this app helps you understand where you stand in terms of your body mass relative to your height.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bmi_calculator": "file:"
+  }
+}

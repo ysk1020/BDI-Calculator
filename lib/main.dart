@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 //pub imports
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 //pages imports
-import 'package:bmi_calculator/screens/welcome_page.dart';
+//import 'package:bmi_calculator/screens/welcome_page.dart';
 import 'package:bmi_calculator/screens/input_page.dart';
 
 void main() {

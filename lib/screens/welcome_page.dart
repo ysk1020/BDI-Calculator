@@ -41,7 +41,7 @@ class WellcomePage extends StatelessWidget {
             //next button
             Padding(
               padding: EdgeInsets.symmetric(vertical: 25.h),
-              child: Container(
+              child: SizedBox(
                 width: 150.w,
                 height: 50.h,
                 child: ElevatedButton.icon(
